@@ -6,7 +6,7 @@ FRAMEWORK
 - Data Acquition (training & testing) / Loading Dataset
 - Wrangle, prepare, cleanse the data
 - Analyze, identify patterns, and explore the data
-- Model, predict and solve the problem
+- Model, predict and solve the problem & Evaluation
 - Visualize, report, and present the problem solving 
   steps and final solution
 - Supply or submit the results
@@ -66,3 +66,12 @@ Data :
 - Numerical 
 ===================================================
 ===================================================
+Evaluation
+
+
+Methods : 
+1. Matthew Correlation Coefficient (Binary Classification)
+
+===================================================
+===================================================
+
